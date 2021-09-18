@@ -1,7 +1,6 @@
 ### LiqunKit 综合漏洞利用工具
 
 
-## 项目暂停下载！
 
 本程序由 Liqun @ snowlovely 共同驱动
 
