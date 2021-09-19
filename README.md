@@ -28,6 +28,8 @@
 
 2021.07.20:「+」各类OA    漏洞利用模块
 
+分块传输模块部分代码来自：http://github.com/c0ny1/chunked-coding-converter
+
 
 ![image](https://user-images.githubusercontent.com/89302066/133883685-de761055-e451-443f-84d6-ce656b10a9ca.png)
 
