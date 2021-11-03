@@ -30,6 +30,7 @@ sql注入获取Cookie
 后台任意文件上传
 
 任意文件删除组合getshell
+![image](https://user-images.githubusercontent.com/89302066/140003518-78acba31-7a12-498c-9577-f4ef07950b8d.png)
 
 ### 2.新增Shiro 550 漏洞利用模块
 
@@ -43,6 +44,9 @@ sql注入获取Cookie
 实现一键写入文件到自定义目录
 
 实现Linux一键反弹shell
+![image](https://user-images.githubusercontent.com/89302066/140003643-26e08567-b65a-4113-be9a-e998a38b0b5e.png)
+
+![image](https://user-images.githubusercontent.com/89302066/140003726-f247c50d-3c04-444e-ae80-c50fdefa8d68.png)
 
 ### -- 关于内存🐴
 
@@ -57,19 +61,6 @@ sql注入获取Cookie
 修复部分OA利用逻辑提高成功率
 
 修复分块传输出现乱码的BUG
-
-
-
-### 通达OA 模块
-
-![image](https://user-images.githubusercontent.com/89302066/140003518-78acba31-7a12-498c-9577-f4ef07950b8d.png)
-
-### Shiro 模块
-
-![image](https://user-images.githubusercontent.com/89302066/140003643-26e08567-b65a-4113-be9a-e998a38b0b5e.png)
-
-![image](https://user-images.githubusercontent.com/89302066/140003726-f247c50d-3c04-444e-ae80-c50fdefa8d68.png)
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
