@@ -1,12 +1,20 @@
-# 有部分人你觉得东西有后门也好觉得我是外星人也罢，请你拿出证据好么不要到处造谣
-# 让人觉得你脑子有问题
+# 不喜欢的我也没有逼你们用，我只是个安防崽，你们各位大神也好大佬也好不要给那么大压力！
+# 别上来就沟吧的骂人，有啥事好好说！！！我又不是不和你们解释
+# 本来工具搞出来就是分享给大家用的
 
+# 关于你们讨论的问题这里解释下吧，
 
+    1.hta文件
+    本工具的数据库综合利用模块部分代码参考的是  https://github.com/SafeGroceryStore/MDUT
+    而MDUT是星404星链计划推荐项目  https://github.com/knownsec/404StarLink
+    你们所讨论的hta 我也是从MDUT 项目原生移植过来的 如果不放心可以自己去看看
+    https://github.com/SafeGroceryStore/MDUT/tree/main/MDAT-DEV/src/main/Plugins/Redis
+    还有有一点我也很奇怪就是在代码里并没有发现调用了这个hta文件，所以删除并不影响 redis 利用模块的使用，
+    觉得奇怪的删了就行！
+    
 
 
 ### LiqunKit 综合漏洞利用工具
-
-
 
 本程序由 Liqun @ snowlovely 共同驱动
 
@@ -128,6 +136,9 @@ sql注入获取Cookie
 ![image](https://user-images.githubusercontent.com/89302066/140025772-69ce74f7-5e60-4e23-9a05-f6c0391faedd.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+数据库综合利用模块参考：
+https://github.com/SafeGroceryStore/MDUT
 
 分块传输模块参考：
 http://github.com/c0ny1/chunked-coding-converter
