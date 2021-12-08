@@ -1,5 +1,5 @@
 
-### LiqunKit 综合漏洞利用工具
+### LiqunKit 漏洞辅助工具箱
 
 本程序由 Liqun @ snowlovely 共同驱动
 
